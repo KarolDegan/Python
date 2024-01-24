@@ -1,0 +1,5 @@
+time = ( 'BOTAFOGO', 'GRÊMIO', 'FLAMENGO', 'PALMEIRAS', 'RED BULL BRAGANTINO', 'FLUMINENSE', 'SÃO PAULO', 'INTERNACIONAL', 'ATHLETICO-PR', 'ATLÉTICO-MG', 'FORTALEZA', 'CRUZEIRO', 'CUIABÁ', 'SANTOS', 'BAHIA', 'CORINTHIANS', 'GOIÁS', 'VASCO', 'AMÉRICA-MG', 'CORITIBA')
+print(time[0:5])
+print(time[-5:-1])
+print(sorted(time))
+print(time.index('PALMEIRAS')+1) 
