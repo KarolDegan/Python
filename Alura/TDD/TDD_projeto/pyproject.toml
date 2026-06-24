@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flaskner"
+version = "0.0.1"
+description = "A simple NER API"
+
+[tool.setuptools.packages.find]
+where = ["faskner"]

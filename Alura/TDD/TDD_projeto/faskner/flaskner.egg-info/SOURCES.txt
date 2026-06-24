@@ -1,0 +1,5 @@
+pyproject.toml
+faskner/flaskner.egg-info/PKG-INFO
+faskner/flaskner.egg-info/SOURCES.txt
+faskner/flaskner.egg-info/dependency_links.txt
+faskner/flaskner.egg-info/top_level.txt

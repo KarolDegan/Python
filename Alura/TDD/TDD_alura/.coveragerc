@@ -1,0 +1,10 @@
+[run]
+source = .qcodigo
+
+[report]
+
+exclude_lines =
+    def __str__
+
+[html]
+directory = relatorio_html

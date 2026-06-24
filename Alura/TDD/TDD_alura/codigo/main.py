@@ -1,0 +1,1 @@
+from bytebank import Funcionario
